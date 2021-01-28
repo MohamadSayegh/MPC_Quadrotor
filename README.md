@@ -1,7 +1,9 @@
 # Model Predictive Control for a quadrotor in static and dynamic environments
 
 Ku Leuven
+
 Optimization of Mechatronic Systems H04U1a
+
 Authors: Elias Rached,Mohamad Sayegh
 
 ## Overview
