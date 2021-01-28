@@ -14,15 +14,15 @@ Goal is to safely navigate in a workspace populated by static and moving obstacl
 
 ## Objectives
 
--Implement point-to-point Model Predictive Control
+- Implement point-to-point Model Predictive Control
 
--Obstacle Avoidance in static and dynamic environment (Moving obstacles)
+- Obstacle Avoidance in static and dynamic environment (Moving obstacles)
 
--Finding the best formulation of the problem ( MPC and Obstacles )
+- Finding the best formulation of the problem ( MPC and Obstacles )
 
--Exploring time optimality (comparison several methods / parameters)
+- Exploring time optimality (comparison several methods / parameters)
 
--How to escape Local minima
+- How to escape Local minima
 
 ## Application 
 
