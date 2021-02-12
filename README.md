@@ -1,6 +1,6 @@
 # Model Predictive Control for a quadrotor in static and dynamic environments
 
-Ku Leuven
+KU Leuven
 
 Optimization of Mechatronic Systems H04U1a
 
@@ -26,21 +26,21 @@ Goal is to safely navigate in a workspace populated by static and moving obstacl
 
 ## Application 
 
-- Using Rockit and Casadi
+- Using Rockit: Rockit (Rapid Optimal Control kit) is a software framework to quickly prototype optimal control problems (aka dynamic optimization) that may arise in     engineering: iterative learning (ILC), model predictive control (NMPC), motion planning. Link: https://github.com/meco-group/rockit 
 
-- Solver: IPOPT (Interior Point OPTimizer)
+- Solver used: IPOPT (Interior Point OPTimizer)
 
-- Control input limits (important)        −𝟏 ≤𝑢 ≤𝟏
+- Control input limits:      −𝟏 ≤𝑢 ≤𝟏
 
-- OCP horizon length N = 10 - 20 control intervals
+- OCP horizon length: N = 10 - 20 control intervals
 
-- Sampling time dt = 0.05 - 0.1s
+- Sampling time: dt = 0.05 - 0.1s
 
 - Discretization method: multiple shooting 
 
 - Numerical integration method: Runge-Kutta 4th order
 
-- Used previous solution to warm-start next OCP
+- Using warmstarting
 
 ## Dealing with Local minima 
 
