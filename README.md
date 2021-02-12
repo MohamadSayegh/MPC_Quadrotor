@@ -58,6 +58,18 @@ Methods of escaping the local minimum are proposed:
 
 ![alt-text](https://github.com/MohamadSayegh/MPC_Quadrotor/blob/main/dynamic%20enciroment.gif)
 
+### Reference paper method with Dynamic Enviroment
+
+![alt-text](https://github.com/MohamadSayegh/MPC_Quadrotor/blob/main/dynamic%20enciroment.gif)
+
+### Potential Field method with Dynamic Enviroment
+
+![alt-text](https://github.com/MohamadSayegh/MPC_Quadrotor/blob/main/dynamic%20enciroment.gif)
+
+
+## Contact
+
+mohamad.sayegh@student.kuleuven.be
 
 
 
