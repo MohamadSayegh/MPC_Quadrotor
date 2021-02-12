@@ -56,7 +56,7 @@ Methods of escaping the local minimum are proposed:
 
 ### Dynamic enviroment
 
-![alt-text]https://github.com/MohamadSayegh/MPC_Quadrotor/blob/main/dynamic%20enciroment.gif
+![alt-text](https://github.com/MohamadSayegh/MPC_Quadrotor/blob/main/dynamic%20enciroment.gif)
 
 
 
