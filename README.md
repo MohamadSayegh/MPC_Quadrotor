@@ -52,6 +52,11 @@ Methods of escaping the local minimum are proposed:
 
 - Potential Field method could help escape certain local minima (if close to obstacles)
 
+## Example Results
+
+### Dynamic enviroment
+
+![alt-text]https://github.com/MohamadSayegh/MPC_Quadrotor/blob/main/dynamic%20enciroment.gif
 
 
 
