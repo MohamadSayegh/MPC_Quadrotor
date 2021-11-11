@@ -69,8 +69,7 @@ Methods of escaping the local minimum are proposed:
 
 ## Contact
 
-mohamad.sayegh@student.kuleuven.be
-
+sayeghmohamad@outlook.com
 
 
 
